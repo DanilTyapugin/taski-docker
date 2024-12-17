@@ -1,5 +1,5 @@
   frontend_tests:
-    runs-on: ubuntu-latest
+    on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
